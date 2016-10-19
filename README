@@ -1,0 +1,5 @@
+1. Compile:
+	In Mac,
+	Run $gcc cl_generation.c -framework opencl
+2. Execution:
+	$./a.out

@@ -1,0 +1,19 @@
+What_is_the_population_size................?  100
+What_is_the_chromosome_length..............?  24
+What_is_the_max_no_of_generations..........?  100000
+What_is_the_crossover_probability..........?  0.6
+What_is_the_mutation_probability...........?  0.0333
+What_is_the_seed_random_number_(1-10)......?  3
+What_is_the_total_number_of_variables......?  3
+Range_for_Variable_1.......................? -20. to 20.
+Range_for_Variable_2.......................? -20. to 20.
+Range_for_Variable_3.......................? -20. to 20. 
+Range_for_Variable_4.......................?
+Range_for_Variable_5.......................?
+Range_for_Variable_6.......................?
+Range_for_Variable_7.......................?
+Range_for_Variable_8.......................?
+Range_for_Variable_9.......................?
+Range_for_Variable_10......................?
+Range_for_Variable_11......................?
+Range_for_Variable_12......................?
